@@ -21,7 +21,7 @@ The projects in this section demonstrate how data can be organized, integrated, 
 
 ## Projects
 
-### [Logistics Intelligence Platform](./logistics-intelligence-platform)  ⭐
+### ⭐ [Logistics Intelligence Platform](./logistics-intelligence-platform)
 
 An integrated Power BI solution connecting logistics data across revenue, shipments, routes, fleet utilization, maintenance, safety, and customer service. The project uses a multi-table relational model, Power Query transformations, DAX measures, and five role-specific dashboards.
 
