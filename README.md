@@ -1,2 +1,2 @@
-# joshua_schwenk_portfolio
-A portfolio of projects exploring how data and technology can solve business problems, featuring work in analytics, business intelligence, database development, data engineering, governance, cloud architecture, and responsible AI.
+# Joshua Schwenk | Data & Technology Portfolio
+This portfolio presents selected projects from my studies in Management Information Systems and Business Analytics at Colorado State University Global. The projects demonstrate how I approach business problems through data analysis, business intelligence, database development, data engineering concepts, governance, cloud architecture, and responsible AI.
