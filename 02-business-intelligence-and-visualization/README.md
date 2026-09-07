@@ -25,7 +25,7 @@ The projects in this section demonstrate how data can be prepared, analyzed, and
 
 ### ⭐ [Workforce Experience & Training Dashboard](./workforce_experience_and_training_dashboard)
 
-An interactive Power BI solution that brings together employee, engagement survey, training, performance, and recruitment data. Five report pages provide leadership with insight into workforce experience, training investment, employee development, departmental performance, and recruiting activity.
+An interactive Power BI solution that brings together employee, engagement survey, training, performance, and recruitment data. Three report pages provide leadership with insight into workforce experience, training investment, employee development, departmental performance, and recruiting activity.
 
 **Technologies:** Power BI • Power Query • DAX • Data Modeling • People Analytics
 
