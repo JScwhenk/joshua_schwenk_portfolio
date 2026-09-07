@@ -54,6 +54,8 @@ The model connects five core tables:
 > Power BI Desktop is required to open and interact with the `.pbix` report.
 
 
+---
+
 <div align="center">
 
 [Return to Previous Page](../)
