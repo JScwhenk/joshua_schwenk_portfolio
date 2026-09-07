@@ -6,7 +6,7 @@
 ![Exploratory Analysis](https://img.shields.io/badge/Exploratory_Analysis-7A5195?style=flat-square)
 
 <p align="center">
-  <img src="./excel_visualization_preview.PNG" alt="Example of an Excel analytics and data visualization study" width="80%">
+  <img src="./excel_visualization_preview.PNG" alt="Example of an Excel analytics and data visualization study" width="50%">
 </p>
 
 <p align="center"><em>Selected Excel analysis demonstrating comparative, categorical, and trend-focused data visualization.</em></p>
@@ -48,14 +48,6 @@ This workbook applies Excel analysis and visualization techniques to several dat
 - Presenting trends and relationships visually
 - Developing clear, audience-focused worksheet layouts
 - Using Excel tables, summaries, and supporting calculations
-
-## Project Files
-
-| Workbook | Focus |
-|---|---|
-| [Comparative Visualization Studies](./comparative_visualization_studies.xlsx) | Categorical, geographic, and comparative analysis |
-| [Trend and Web Visualization Studies](./trend_and_web_visualization_studies.xlsx) | Rankings, trends, and performance comparisons |
-| [Large-Dataset Excel Analysis](./large_dataset_excel_analysis.xlsx) | Analysis and visualization of larger source datasets |
 
 ---
 
