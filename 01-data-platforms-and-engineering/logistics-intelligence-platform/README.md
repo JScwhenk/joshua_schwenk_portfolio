@@ -73,7 +73,7 @@ These tables were connected through shared operational identifiers to support an
 - Data governance
 - Implementation planning
 
-## Download the Project
+## Project Files
 
 - [View the Complete Project Report](./logistics-intelligence-platform-report.pdf)
 - [Download the Interactive Power BI Report](./sts8_logistics.pbix)
