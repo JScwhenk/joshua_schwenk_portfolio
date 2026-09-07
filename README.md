@@ -10,8 +10,8 @@ Turning data into clear insights, reliable systems, and practical business solut
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-5C2D91?style=flat-square)
-![DAX](https://img.shields.io/badge/DAX-1F4E79?style=flat-square)
+[![SAS](https://img.shields.io/badge/SAS-1B365D?style=flat-square&logo=sas&logoColor=white)](https://www.sas.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
