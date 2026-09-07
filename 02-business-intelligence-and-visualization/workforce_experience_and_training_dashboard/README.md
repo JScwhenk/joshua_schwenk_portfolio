@@ -5,6 +5,12 @@
 ![DAX](https://img.shields.io/badge/DAX-1F4E79?style=flat-square)
 ![People Analytics](https://img.shields.io/badge/People_Analytics-5C2D91?style=flat-square)
 
+<p align="center">
+  <img src="./executive_dashboard_DV2.PNG" alt="Workforce experience and training executive Power BI dashboard" width="100%">
+</p>
+
+<p align="center"><em>Executive overview of workplace experience, survey participation, training investment, training outcomes, and departmental performance.</em></p>
+
 ## Project Overview
 
 This project transforms four related human-resources datasets into an interactive Power BI reporting solution. The analysis connects employee records with engagement surveys and training activity to help organizational leaders understand workplace experience, employee development, training investment, and performance across departments.
