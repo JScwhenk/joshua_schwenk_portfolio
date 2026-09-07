@@ -45,7 +45,7 @@ A relational library database created in PostgreSQL and connected to Power BI fo
 
 **Technologies:** PostgreSQL • Power BI • Relational Data Modeling
 
-
+---
 
 
 <div align="center">
