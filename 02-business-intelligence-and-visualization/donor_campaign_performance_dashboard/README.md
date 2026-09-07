@@ -5,7 +5,7 @@
 ![Campaign Analytics](https://img.shields.io/badge/Campaign_Analytics-7A5195?style=flat-square)
 
 <p align="center">
-  <img src="./donor_campaign_dashboard.PNG" alt="Excel dashboard presenting donor campaign performance and fundraising results" width="85%">
+  <img src="./donor_campaign_dashboard.PNG" alt="Excel dashboard presenting donor campaign performance and fundraising results" width="100%">
 </p>
 
 <p align="center"><em>Campaign overview showing fundraising results, donor activity, solicitation performance, and giving patterns.</em></p>
