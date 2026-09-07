@@ -45,10 +45,11 @@ An interactive Power BI report that helps decision-makers explore customer behav
 
 ### [Excel Analytics & Visualization Studies](./excel_analytics_and_visualization_studies)
 
-A curated collection of Excel analyses demonstrating pivot reporting, forecasting, distribution analysis, comparative visualization, and the selection of charts for different business questions.
+A curated collection of Excel studies examining how different visualization methods can clarify comparisons, trends, and relationships across varied datasets. The project demonstrates analytical chart selection, structured workbook design, and the ability to turn both small and large datasets into accessible visual information.
 
-**Technologies:** Excel • PivotTables • Forecasting • Statistical Charts • Data Visualization
+**Technologies:** Microsoft Excel • PivotTables • Data Visualization • Exploratory Analysis
 
+---
 
 <div align="center">
 
