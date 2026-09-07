@@ -54,4 +54,8 @@ The project focuses on presenting customer information at multiple levels of det
 
 ---
 
-[Return to Business Intelligence & Visualization](../README.md)
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
