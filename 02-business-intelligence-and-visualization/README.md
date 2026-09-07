@@ -35,7 +35,6 @@ An interactive Excel dashboard analyzing solicitation activity, donation convers
 
 **Technologies:** Excel • PivotTables • PivotCharts • Formulas • Interactive Filters
 
----
 
 ### [Customer Behavior & Value Dashboard](./customer_behavior_and_value_dashboard)
 
@@ -43,7 +42,6 @@ An interactive Power BI report that helps decision-makers explore customer behav
 
 **Technologies:** Power BI • Power Query • Customer Analytics • Data Visualization
 
----
 
 ### [Excel Analytics & Visualization Studies](./excel_analytics_and_visualization_studies)
 
