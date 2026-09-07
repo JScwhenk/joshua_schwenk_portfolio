@@ -80,3 +80,12 @@ The report includes measures for:
 - [Download the Interactive Power BI Report](./workforce_experience_dashboard.pbix)
 
 > Power BI Desktop is required to open and interact with the `.pbix` report.
+>
+
+
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
+
