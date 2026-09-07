@@ -29,7 +29,7 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 
 | Area | What the projects demonstrate |
 |---|---|
-| **Data Platforms & Engineering** | Data integration, source systems, relational models, and reporting architecture |
+| **[Data Platforms & Engineering](./01-data-platforms-and-engineering)** | Data integration, source systems, relational models, and reporting architecture |
 | **Business Intelligence & Visualization** | Interactive dashboards, KPI development, Power Query, DAX, and visual storytelling |
 | **Database Design & SQL** | Relational design, normalization, ERDs, PostgreSQL, and business-focused queries |
 | **Statistical & Predictive Analytics** | Regression, classification, clustering, model evaluation, and analytical interpretation |
