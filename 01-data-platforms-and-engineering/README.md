@@ -17,3 +17,9 @@ An integrated Power BI solution that connects logistics data across revenue, shi
 A dimensional data-warehouse design that integrates merchandise sales, service purchases, corporate events, and inventory activity. The project defines transactional grain, fact and dimension tables, conformed dimensions, aggregation behavior, storage requirements, and a constellation schema for unified analysis.
 
 **Concepts:** Data Warehousing • Dimensional Modeling • Constellation Schema • Data Architecture
+
+### [PostgreSQL-to-Power BI Integration](./postgresql_to_power_bi_integration)
+
+A relational library database created in PostgreSQL and connected to Power BI for integrated reporting. The project links books, authors, genres, patrons, and borrowing activity through primary and foreign keys, demonstrating database connectivity and multi-table analysis.
+
+**Technologies:** PostgreSQL • Power BI • Relational Data Modeling
