@@ -52,6 +52,12 @@ A people analytics report designed to help organizational leaders understand the
 
 **Technologies:** Power BI • Power Query • DAX • Data Modeling • People Analytics
 
+### ⭐ [Donor Campaign Performance Dashboard](./02-business-intelligence-and-visualization/donor_campaign_performance_dashboard)
+
+An Excel dashboard developed to help fundraising leaders understand campaign performance and donor participation. The analysis highlights giving patterns, solicitation results, and differences across fundraising channels, providing a clearer foundation for campaign planning and donor-engagement decisions.
+
+**Technologies:** Microsoft Excel • PivotTables • Data Visualization • Campaign Analytics
+
 ---
 
 ## About the Projects
