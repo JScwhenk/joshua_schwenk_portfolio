@@ -49,6 +49,12 @@ A curated collection of Excel studies examining how different visualization meth
 
 **Technologies:** Microsoft Excel • PivotTables • Data Visualization • Exploratory Analysis
 
+### [Lift Line Looks Website Analytics Plan](./lift_line_looks_website_analytics_plan)
+
+A digital measurement strategy developed for an e-commerce retailer seeking to improve its online customer experience and sales performance. The plan connects business questions to KPIs, data-collection systems, analytical methods, and stakeholder reporting while establishing a roadmap for more advanced analytics.
+
+**Concepts:** Web Analytics • KPI Development • E-commerce Analytics • Measurement Strategy
+
 ---
 
 <div align="center">
