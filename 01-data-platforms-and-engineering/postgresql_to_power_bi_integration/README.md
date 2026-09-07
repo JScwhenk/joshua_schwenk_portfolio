@@ -42,4 +42,7 @@ The model connects five core tables:
 
 ## Project Files
 
-Project documentation and the Power BI report will be added below.
+- [View the Complete Project Report](./postgresql_power_bi_integration_report.pdf)
+- [Download the Power BI Report](./postgresql_power_bi_integration.pbix)
+
+> Power BI Desktop is required to open and interact with the `.pbix` report.
