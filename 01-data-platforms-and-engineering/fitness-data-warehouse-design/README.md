@@ -4,6 +4,12 @@
 ![Dimensional Modeling](https://img.shields.io/badge/Dimensional_Modeling-5C2D91?style=flat-square)
 ![Constellation Schema](https://img.shields.io/badge/Constellation_Schema-475569?style=flat-square)
 
+<p align="center">
+  <img src="./constellation_schema.PNG" alt="Fitness Unlimited constellation schema for revenue and inventory analysis" width="100%">
+</p>
+
+<p align="center"><em>Constellation schema connecting merchandise, service, event, and inventory facts through shared dimensions.</em></p>
+
 ## Project Overview
 
 Fitness Unlimited is a fictional exercise-center provider that tracks merchandise sales, service purchases, and corporate events across separate operational systems and spreadsheets. This fragmentation limits the organization’s ability to evaluate performance consistently across franchises, customers, products, services, and time.
