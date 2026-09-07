@@ -38,6 +38,20 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 
 ---
 
+## Featured Projects
+
+### [Logistics Intelligence Platform](./01-data-platforms-and-engineering/logistics-intelligence-platform)
+
+An integrated business intelligence solution created for a fictional transportation company. The project connects operational data across revenue, shipments, routes, drivers, fleet maintenance, safety, and customer service within a relational Power BI model.
+
+The five-page report provides tailored views for executives, operations managers, maintenance teams, safety leaders, and customer-service stakeholders.
+
+**Technologies:** Power BI • Power Query • DAX • Relational Data Modeling • Data Governance
+
+[View Project](./01-data-platforms-and-engineering/logistics-intelligence-platform) · [Download Power BI Report](./01-data-platforms-and-engineering/logistics-intelligence-platform/sts8_logistics.pbix?raw=1)
+
+---
+
 ## About the Projects
 
 The work in this portfolio began as part of my undergraduate studies and has been reorganized for a professional audience. Each project focuses on the business problem, technical approach, analytical process, and resulting insights rather than presenting the original assignment alone.
