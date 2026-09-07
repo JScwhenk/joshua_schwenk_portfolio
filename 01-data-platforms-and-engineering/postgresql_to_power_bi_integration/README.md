@@ -52,3 +52,10 @@ The model connects five core tables:
 - [Download the Power BI Report](./postgresql_power_bi_integration.pbix)
 
 > Power BI Desktop is required to open and interact with the `.pbix` report.
+
+
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
