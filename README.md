@@ -48,8 +48,6 @@ The five-page report provides tailored views for executives, operations managers
 
 **Technologies:** Power BI • Power Query • DAX • Relational Data Modeling • Data Governance
 
-[View the Complete Project Report](./01-data-platforms-and-engineering/logistics-intelligence-platform/logistics-intelligence-platform-report.pdf) · [Download Power BI Report](./01-data-platforms-and-engineering/logistics-intelligence-platform/sts8_logistics.pbix?raw=1)
-
 ---
 
 ## About the Projects
