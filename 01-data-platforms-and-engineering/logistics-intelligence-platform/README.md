@@ -66,6 +66,8 @@ These tables were connected through shared operational identifiers to support an
 - Data governance
 - Implementation planning
 
-## Repository Contents
+## Download the Project
 
-Supporting files, dashboard previews, data documentation, and the downloadable Power BI report will be added as the project is prepared for publication.
+The complete interactive Power BI report is available below. Power BI Desktop is required to open and explore the report.
+
+[Download the STS8 Logistics Power BI Report](./sts8-logistics.pbix)
