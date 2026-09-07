@@ -46,6 +46,6 @@ The dashboard allows users to explore:
 
 The complete interactive Excel workbook will be available below.
 
-- [Download the Donor Campaign Performance Dashboard](./donor_campaign_performance_dashboard.xlsx?raw=1)
+- [Download the Donor Campaign Performance Dashboard](./donor_campaign_performance_dashboard.xlsx)
 
 > Microsoft Excel is recommended for viewing and interacting with the complete dashboard.
