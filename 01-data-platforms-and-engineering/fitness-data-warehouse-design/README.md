@@ -40,3 +40,10 @@ Dimensional modeling • Fact and dimension design • Grain definition • Conf
 ## Project Files
 
 [View the Complete Data Warehouse Design Report](./fitness_data_warehouse_design_report.pdf)
+
+
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
