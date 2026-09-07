@@ -4,6 +4,12 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-5C2D91?style=flat-square)
 
+<p align="center">
+  <img src="./power_bi_data_model.PNG" alt="Power BI relational model connected to PostgreSQL" width="75%">
+</p>
+
+<p align="center"><em>Power BI model connecting authors, genres, books, patrons, and borrowing activity imported from PostgreSQL.</em></p>
+
 ## Project Overview
 
 This project demonstrates how a PostgreSQL relational database can be connected to Power BI for integrated reporting. The database represents a library-management environment containing information about books, authors, genres, patrons, and borrowing activity.
