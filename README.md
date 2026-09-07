@@ -42,11 +42,15 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 
 ### ⭐ [Logistics Intelligence Platform](./01-data-platforms-and-engineering/logistics-intelligence-platform)
 
-An integrated business intelligence solution created for a fictional transportation company. The project connects operational data across revenue, shipments, routes, drivers, fleet maintenance, safety, and customer service within a relational Power BI model.
-
-The five-page report provides tailored views for executives, operations managers, maintenance teams, safety leaders, and customer-service stakeholders.
+A business intelligence solution designed to help transportation leaders understand performance across a complex logistics operation. The report brings operational and financial information into one reporting environment, giving decision-makers a clearer view of business performance and the relationships between efficiency, reliability, safety, and customer service.
 
 **Technologies:** Power BI • Power Query • DAX • Relational Data Modeling • Data Governance
+
+### ⭐ [Workforce Experience & Training Dashboard](./02-business-intelligence-and-visualization/workforce_experience_and_training_dashboard)
+
+A people analytics report designed to help organizational leaders understand the employee experience and make informed workforce-development decisions. The dashboard provides a clear view of how engagement, training, and performance vary across the organization while highlighting areas that may require additional attention or investment.
+
+**Technologies:** Power BI • Power Query • DAX • Data Modeling • People Analytics
 
 ---
 
