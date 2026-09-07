@@ -40,7 +40,7 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 
 ## Featured Projects
 
-### [Logistics Intelligence Platform](./01-data-platforms-and-engineering/logistics-intelligence-platform)
+### ⭐ [Logistics Intelligence Platform](./01-data-platforms-and-engineering/logistics-intelligence-platform)
 
 An integrated business intelligence solution created for a fictional transportation company. The project connects operational data across revenue, shipments, routes, drivers, fleet maintenance, safety, and customer service within a relational Power BI model.
 
