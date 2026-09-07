@@ -44,3 +44,8 @@ A Power BI dashboard examining customer spending, lifetime value, engagement, lo
 A curated collection of Excel analyses demonstrating pivot reporting, forecasting, distribution analysis, comparative visualization, and the selection of charts for different business questions.
 
 **Technologies:** Excel • PivotTables • Forecasting • Statistical Charts • Data Visualization
+
+
+<div align="center">
+
+[Return to Main Portfolio](../)
