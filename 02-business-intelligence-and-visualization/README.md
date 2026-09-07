@@ -39,9 +39,9 @@ An interactive Excel dashboard analyzing solicitation activity, donation convers
 
 ### [Customer Behavior & Value Dashboard](./customer_behavior_and_value_dashboard)
 
-A Power BI dashboard examining customer spending, lifetime value, engagement, loyalty, channel preferences, regional activity, and service performance.
+An interactive Power BI report that helps decision-makers explore customer behavior, compare customer segments, and understand the factors contributing to customer value. The dashboard combines summary KPIs with filters, cross-filtering, and supporting detail for deeper analysis.
 
-**Technologies:** Power BI • Power Query • Data Visualization • KPI Development
+**Technologies:** Power BI • Power Query • Customer Analytics • Data Visualization
 
 ---
 
