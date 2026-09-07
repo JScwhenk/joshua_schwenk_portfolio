@@ -23,6 +23,12 @@ The projects in this section demonstrate how data can be prepared, analyzed, and
 
 ## Projects
 
+### ⭐ [Workforce Experience & Training Dashboard](./workforce_experience_and_training_dashboard)
+
+An interactive Power BI solution that brings together employee, engagement survey, training, performance, and recruitment data. Five report pages provide leadership with insight into workforce experience, training investment, employee development, departmental performance, and recruiting activity.
+
+**Technologies:** Power BI • Power Query • DAX • Data Modeling • People Analytics
+
 ### ⭐ [Donor Campaign Performance Dashboard](./donor_campaign_performance_dashboard)
 
 An interactive Excel dashboard analyzing solicitation activity, donation conversion, fundraising channels, legacy-donor contributions, and development-officer performance across approximately 2,700 records.
