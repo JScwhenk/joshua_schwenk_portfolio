@@ -6,6 +6,13 @@
 ![DAX](https://img.shields.io/badge/DAX-1F4E79?style=flat-square)
 ![Data Governance](https://img.shields.io/badge/Data_Governance-475569?style=flat-square)
 
+<p align="center">
+  <img src="./executive-dashboard.PNG" alt="STS8 Logistics executive Power BI dashboard" width="100%">
+</p>
+
+<p align="center"><em>Executive view of revenue, shipment volume, fleet utilization, customer value, and route performance.</em></p>
+
+
 ## Project Overview
 
 This project presents an integrated business intelligence solution for STS8 Logistics, a fictional transportation company seeking better visibility into financial performance, fleet operations, maintenance, safety, and customer service.
