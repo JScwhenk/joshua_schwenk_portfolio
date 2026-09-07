@@ -33,4 +33,4 @@ Dimensional modeling • Fact and dimension design • Grain definition • Conf
 
 ## Project Files
 
-The complete written report and constellation-schema diagram will be added here.
+[View the Complete Data Warehouse Design Report](./fitness_data_warehouse_design_report.pdf)
