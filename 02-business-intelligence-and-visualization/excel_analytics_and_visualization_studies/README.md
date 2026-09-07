@@ -6,7 +6,7 @@
 ![Exploratory Analysis](https://img.shields.io/badge/Exploratory_Analysis-7A5195?style=flat-square)
 
 <p align="center">
-  <img src="./excel_visualization_preview.png" alt="Example of an Excel analytics and data visualization study" width="80%">
+  <img src="./excel_visualization_preview.PNG" alt="Example of an Excel analytics and data visualization study" width="80%">
 </p>
 
 <p align="center"><em>Selected Excel analysis demonstrating comparative, categorical, and trend-focused data visualization.</em></p>
@@ -25,19 +25,19 @@ Rather than treating charts as decoration, these studies focus on matching each 
 
 This workbook examines categorical, geographic, and comparative information through topics including Fortune 500 headquarters, turfgrass selection, professional sports performance, and pet-food comparisons. The exercises demonstrate how chart selection affects the clarity of comparisons between groups.
 
-[Download the Comparative Visualization Workbook](./comparative_visualization_studies.xlsx?raw=1)
+[Download the Comparative Visualization Workbook](./comparative_visualization_studies.xlsx)
 
 ### Trend and Web Visualization Studies
 
 This workbook explores ranked website data, sports-related information, restaurant franchise comparisons, and day-trading activity. The studies emphasize trend recognition and the presentation of data that changes across observations or reporting periods.
 
-[Download the Trend and Web Visualization Workbook](./trend_and_web_visualization_studies.xlsx?raw=1)
+[Download the Trend and Web Visualization Workbook](./trend_and_web_visualization_studies.xlsx)
 
 ### Large-Dataset Excel Analysis
 
 This workbook applies Excel analysis and visualization techniques to several datasets, including one containing nearly 20,000 records. It demonstrates how a larger source table can be transformed into focused analytical views that make patterns and comparisons easier to interpret.
 
-[Download the Large-Dataset Analysis Workbook](./large_dataset_excel_analysis.xlsx?raw=1)
+[Download the Large-Dataset Analysis Workbook](./large_dataset_excel_analysis.xlsx)
 
 ## Skills Demonstrated
 
@@ -53,9 +53,9 @@ This workbook applies Excel analysis and visualization techniques to several dat
 
 | Workbook | Focus |
 |---|---|
-| [Comparative Visualization Studies](./comparative_visualization_studies.xlsx?raw=1) | Categorical, geographic, and comparative analysis |
-| [Trend and Web Visualization Studies](./trend_and_web_visualization_studies.xlsx?raw=1) | Rankings, trends, and performance comparisons |
-| [Large-Dataset Excel Analysis](./large_dataset_excel_analysis.xlsx?raw=1) | Analysis and visualization of larger source datasets |
+| [Comparative Visualization Studies](./comparative_visualization_studies.xlsx) | Categorical, geographic, and comparative analysis |
+| [Trend and Web Visualization Studies](./trend_and_web_visualization_studies.xlsx) | Rankings, trends, and performance comparisons |
+| [Large-Dataset Excel Analysis](./large_dataset_excel_analysis.xlsx) | Analysis and visualization of larger source datasets |
 
 ---
 
