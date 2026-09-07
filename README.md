@@ -30,7 +30,7 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 | Area | What the projects demonstrate |
 |---|---|
 | **[Data Platforms & Engineering](./01-data-platforms-and-engineering)** | Data integration, source systems, relational models, and reporting architecture |
-| **Business Intelligence & Visualization** | Interactive dashboards, KPI development, Power Query, DAX, and visual storytelling |
+| **[Business Intelligence & Visualization](./02-business-intelligence-and-visualization)** | Interactive dashboards, KPI development, Power Query, DAX, and visual storytelling |
 | **Database Design & SQL** | Relational design, normalization, ERDs, PostgreSQL, and business-focused queries |
 | **Statistical & Predictive Analytics** | Regression, classification, clustering, model evaluation, and analytical interpretation |
 | **Data Governance & Systems Strategy** | Data quality, security, stewardship, cloud architecture, and implementation planning |
