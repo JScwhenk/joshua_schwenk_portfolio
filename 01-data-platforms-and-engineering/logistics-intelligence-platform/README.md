@@ -80,6 +80,8 @@ These tables were connected through shared operational identifiers to support an
 
 > Power BI Desktop is required to open and interact with the `.pbix` report.
 
+---
+
 <div align="center">
 
 [Return to Previous Page](../)
