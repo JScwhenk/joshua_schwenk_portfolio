@@ -4,6 +4,12 @@
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4C78A8?style=flat-square)
 ![Campaign Analytics](https://img.shields.io/badge/Campaign_Analytics-7A5195?style=flat-square)
 
+<p align="center">
+  <img src="./donor_campaign_dashboard.PNG" alt="Excel dashboard presenting donor campaign performance and fundraising results" width="85%">
+</p>
+
+<p align="center"><em>Campaign overview showing fundraising results, donor activity, solicitation performance, and giving patterns.</em></p>
+
 ## Project Overview
 
 This project examines the performance of a nonprofit fundraising campaign using approximately 2,700 solicitation records. The Excel dashboard transforms detailed campaign data into a practical reporting tool that helps organizational leaders understand donation activity, compare fundraising channels, and evaluate campaign results.
