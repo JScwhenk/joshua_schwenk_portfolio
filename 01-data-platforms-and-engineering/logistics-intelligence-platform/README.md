@@ -69,4 +69,6 @@ These tables were connected through shared operational identifiers to support an
 ## Download the Project
 
 - [View the Complete Project Report](./logistics-intelligence-platform-report.pdf)
-- [Download the Interactive Power BI Report](./sts8_logistics.pbix?raw=1)
+- [Download the Interactive Power BI Report](./sts8_logistics.pbix)
+
+> Power BI Desktop is required to open and interact with the `.pbix` report.
