@@ -76,4 +76,7 @@ The report includes measures for:
 
 ## Project Files
 
-The complete written report and interactive Power BI file will be added below.
+- [View the Complete Project Report](./workforce_experience_dashboard_report.pdf)
+- [Download the Interactive Power BI Report](./workforce_experience_dashboard.pbix)
+
+> Power BI Desktop is required to open and interact with the `.pbix` report.
