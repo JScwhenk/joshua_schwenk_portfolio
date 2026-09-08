@@ -51,7 +51,7 @@ These questions demonstrate how relational design and multi-table SQL queries ca
 ## Project File
 
 * [View the Complete Database Project Report](./johnson_video_database_report.pdf)
-* [View Metadata Information](./jvmetadata.xlsx)
+* [View Metadata Workbook](./jvmetadata.xlsx)
 
 ---
 
