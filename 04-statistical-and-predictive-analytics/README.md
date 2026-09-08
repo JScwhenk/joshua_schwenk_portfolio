@@ -36,6 +36,12 @@ An R-based predictive analysis examining the factors associated with home sale p
 
 **Technologies:** R • Tidyverse • Linear Regression • Predictive Modeling
 
+### [Python Marketing Analytics Studies](./python_marketing_analytics_studies)
+
+Two Python studies demonstrating the progression from exploratory advertising analysis to customer segmentation. The projects use pandas to organize and summarize campaign data, then apply feature scaling and K-means clustering to identify actionable banking customer groups.
+
+**Technologies:** Python • pandas • scikit-learn • K-means Clustering
+
 ---
 
 <div align="center">
