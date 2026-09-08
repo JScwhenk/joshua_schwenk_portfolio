@@ -32,7 +32,7 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 | **[Data Platforms & Engineering](./01-data-platforms-and-engineering)** | Data integration, source systems, relational models, and reporting architecture |
 | **[Business Intelligence & Visualization](./02-business-intelligence-and-visualization)** | Interactive dashboards, KPI development, Excel, Power Query, DAX, and visual storytelling |
 | **[Database Design & SQL](./03-database-design-and-sql)** | Relational design, normalization, ERDs, PostgreSQL, and business-focused queries |
-| **Statistical & Predictive Analytics** | Regression, classification, clustering, model evaluation, Python, SAS, and analytical interpretation |
+| **Statistical & Predictive Analytics** | Regression, classification, clustering, model evaluation, R, Python, SAS, and analytical interpretation |
 | **Data Governance & Systems Strategy** | Data quality, security, stewardship, cloud architecture, and implementation planning |
 | **People Analytics & HR Technology** | Workforce insights, recruiting operations, employee experience, and responsible automation |
 
