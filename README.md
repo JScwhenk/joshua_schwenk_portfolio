@@ -64,6 +64,12 @@ A relational database developed to help a video-rental business replace fragment
 
 **Technologies:** PostgreSQL • SQL • Relational Database Design • Entity-Relationship Modeling
 
+### ⭐ [Bank Marketing Segmentation & Subscription Prediction](./04-statistical-and-predictive-analytics/bank_marketing_predictive_analysis)
+
+A predictive analytics project designed to help a bank better understand its marketing audience and identify customers more likely to subscribe to a term deposit. The analysis combines customer segmentation with a validated classification model to turn campaign and customer information into actionable targeting insight.
+
+**Technologies:** SAS • Predictive Modeling • Clustering • Decision Trees
+
 ---
 
 ## About the Projects
