@@ -51,4 +51,8 @@ The revised design gives the Curiosity Shop a more scalable foundation for manag
 
 ---
 
-[Return to Database Design & SQL](../README.md)
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
