@@ -23,7 +23,11 @@ Together, these projects show the progression from understanding a business prob
 
 ## Projects
 
-<!-- Project entries will be added here. -->
+### ⭐ [Johnson Video Relational Database System](./johnson_video_relational_database)
+
+A PostgreSQL database designed to replace a video-rental company’s paper-based approach to customer accounts, inventory, purchasing, and rentals. The project translates operational requirements into a relational model and uses SQL to support sourcing, inventory, rental, customer, and marketing decisions.
+
+**Technologies:** PostgreSQL • SQL • Relational Database Design • Entity-Relationship Modeling
 
 ---
 
