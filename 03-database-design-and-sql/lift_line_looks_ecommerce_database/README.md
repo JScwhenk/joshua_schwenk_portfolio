@@ -51,4 +51,8 @@ This design demonstrates how a relational database can support both daily e-comm
 
 ---
 
-[Return to Database Design & SQL](../README.md)
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
