@@ -30,6 +30,12 @@ A SAS data-mining project developed to identify customer segments and predict re
 
 **Technologies:** SAS • K-means Clustering • Decision Trees • Predictive Modeling
 
+### ⭐ [Ames Housing Price Prediction](./ames_housing_price_prediction)
+
+An R-based predictive analysis examining the factors associated with home sale prices in Ames, Iowa. A multiple linear regression model was developed on training data and evaluated against unseen testing observations using prediction-error metrics and actual-versus-predicted visualization.
+
+**Technologies:** R • Tidyverse • Linear Regression • Predictive Modeling
+
 ---
 
 <div align="center">
