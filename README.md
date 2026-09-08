@@ -31,7 +31,7 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 |---|---|
 | **[Data Platforms & Engineering](./01-data-platforms-and-engineering)** | Data integration, source systems, relational models, and reporting architecture |
 | **[Business Intelligence & Visualization](./02-business-intelligence-and-visualization)** | Interactive dashboards, KPI development, Excel, Power Query, DAX, and visual storytelling |
-| **Database Design & SQL** | Relational design, normalization, ERDs, PostgreSQL, and business-focused queries |
+| **[Database Design & SQL](./03-database-design-and-sql)** | Relational design, normalization, ERDs, PostgreSQL, and business-focused queries |
 | **Statistical & Predictive Analytics** | Regression, classification, clustering, model evaluation, Python, SAS, and analytical interpretation |
 | **Data Governance & Systems Strategy** | Data quality, security, stewardship, cloud architecture, and implementation planning |
 | **People Analytics & HR Technology** | Workforce insights, recruiting operations, employee experience, and responsible automation |
@@ -57,6 +57,12 @@ A people analytics report designed to help organizational leaders understand the
 An Excel dashboard developed to help fundraising leaders understand campaign performance and donor participation. The analysis highlights giving patterns, solicitation results, and differences across fundraising channels, providing a clearer foundation for campaign planning and donor-engagement decisions.
 
 **Technologies:** Microsoft Excel • PivotTables • Data Visualization • Campaign Analytics
+
+### ⭐ [Johnson Video Relational Database System](./03-database-design-and-sql/johnson_video_relational_database)
+
+A relational database developed to help a video-rental business replace fragmented paper records with a reliable system for managing customers, inventory, purchasing, and rentals. The project demonstrates how structured data and SQL can improve operational visibility and support better business decisions.
+
+**Technologies:** PostgreSQL • SQL • Relational Database Design • Entity-Relationship Modeling
 
 ---
 
