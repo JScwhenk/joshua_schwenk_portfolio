@@ -6,7 +6,7 @@
 ![E-commerce](https://img.shields.io/badge/E--commerce-2E8B57?style=flat-square)
 
 <p align="center">
-  <img src="./ecommerce_database_implementation.png" alt="PostgreSQL implementation of the Lift Line Looks e-commerce database" width="80%">
+  <img src="./ecommerce_database_implementation.png" alt="PostgreSQL implementation of the Lift Line Looks e-commerce database" width="65%">
 </p>
 
 <p align="center"><em>PostgreSQL table structure supporting customers, products, orders, payments, shipping, and inventory.</em></p>
