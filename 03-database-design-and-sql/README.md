@@ -41,6 +41,12 @@ A relational database proposal designed to consolidate vehicle assets, acquisiti
 
 **Concepts:** Relational Database Design • Systems Architecture • Data Integrity • Fleet Management
 
+### [Curiosity Shop Database Redesign](./curiosity_shop_database_redesign)
+
+A redesign of an existing sales database created to reduce redundant information and support more complex inventory and vendor relationships. The revised model introduces supertype and subtype entities, improved inventory tracking, many-to-many product sourcing, and clearly defined relationship cardinalities.
+
+**Concepts:** ER Modeling • Normalization • Supertype and Subtype Design • Cardinality
+
 ---
 
 <div align="center">
