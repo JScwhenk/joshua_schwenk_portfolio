@@ -15,6 +15,10 @@ Turning data into clear insights, reliable systems, and practical business solut
 
 </div>
 
+<p align="center">
+  <img src="02-business-intelligence-and-visualization/customer_behavior_and_value_dashboard/customer_behavior_dashboard.png" alt="Power BI dashboard presenting customer behavior and value insights" width="100%">
+</p>
+
 ---
 
 ## About Me
