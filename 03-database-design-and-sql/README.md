@@ -35,6 +35,12 @@ A PostgreSQL database designed to support a retailer’s transition into online 
 
 **Technologies:** PostgreSQL • SQL • Relational Database Design • E-commerce Data
 
+### [Fleet Management System Database Proposal](./fleet_management_database_proposal)
+
+A relational database proposal designed to consolidate vehicle assets, acquisition costs, depreciation, operating expenses, and maintenance activity. The project connects departmental source applications to a centralized data structure that supports accurate fleet reporting and cost analysis.
+
+**Concepts:** Relational Database Design • Systems Architecture • Data Integrity • Fleet Management
+
 ---
 
 <div align="center">
