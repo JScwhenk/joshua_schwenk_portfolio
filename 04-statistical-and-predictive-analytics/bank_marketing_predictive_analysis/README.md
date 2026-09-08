@@ -58,4 +58,9 @@ The model achieved an AUC of approximately `0.90` on the training data and `0.86
 
 ---
 
-[Return to Statistical & Predictive Analytics](../README.md)
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
+
