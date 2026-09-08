@@ -6,7 +6,7 @@
 ![ER Modeling](https://img.shields.io/badge/ER_Modeling-2E8B57?style=flat-square)
 
 <p align="center">
-  <img src="./johnson_video_erd.png" alt="Entity-relationship diagram for the Johnson Video relational database" width="85%">
+  <img src="./johnson_video_erd.png" alt="Entity-relationship diagram for the Johnson Video relational database" width="65%">
 </p>
 
 <p align="center"><em>Relational model connecting customers, rentals, movie inventory, titles, distributors, performers, and purchasing activity.</em></p>
