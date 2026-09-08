@@ -70,6 +70,12 @@ A predictive analytics project designed to help a bank better understand its mar
 
 **Technologies:** SAS • Predictive Modeling • Clustering • Decision Trees
 
+### ⭐ [Ames Housing Price Prediction](./04-statistical-and-predictive-analytics/ames_housing_price_prediction)
+
+A predictive housing analysis developed to estimate home sale prices from property characteristics in Ames, Iowa. The project uses separate training and testing data to evaluate how well the model performs on new observations and to identify where its predictions are most reliable.
+
+**Technologies:** R • Tidyverse • Linear Regression • Predictive Modeling
+
 ---
 
 ## About the Projects
