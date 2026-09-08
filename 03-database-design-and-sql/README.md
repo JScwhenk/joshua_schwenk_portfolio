@@ -29,6 +29,12 @@ A PostgreSQL database designed to replace a video-rental company’s paper-based
 
 **Technologies:** PostgreSQL • SQL • Relational Database Design • Entity-Relationship Modeling
 
+### [Lift Line Looks E-commerce Database](./lift_line_looks_ecommerce_database)
+
+A PostgreSQL database designed to support a retailer’s transition into online sales. The relational structure connects customers, products, orders, payments, shipping, and employee activity while demonstrating how transactional data can support both daily operations and future reporting.
+
+**Technologies:** PostgreSQL • SQL • Relational Database Design • E-commerce Data
+
 ---
 
 <div align="center">
