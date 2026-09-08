@@ -15,7 +15,7 @@ Together, the studies demonstrate progression from data inspection and grouped a
 
 ## Advertising Channel Analysis
 
-<p align="center">
+<p align="left">
   <img src="./advertising_channel_analysis.png" alt="Python advertising-channel analysis with code and visualization" width="75%">
 </p>
 
@@ -31,8 +31,8 @@ The results showed that web advertising generated the greatest overall viewershi
 
 ## Bank Customer Segmentation
 
-<p align="center">
-  <img src="./bank_customer_clusters.png" alt="K-means customer clusters generated with Python" width="75%">
+<p align="left">
+  <img src="./bank_customer_clusters.PNG" alt="K-means customer clusters generated with Python" width="75%">
 </p>
 
 This study applies K-means clustering to 5,000 banking customers using income and average credit-card spending. The variables were standardized before modeling so differences in their measurement scales would not distort the clustering results.
