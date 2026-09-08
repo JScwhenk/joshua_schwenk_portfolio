@@ -24,7 +24,11 @@ Together, these projects emphasize both technical execution and responsible inte
 
 ## Projects
 
-<!-- Project entries will be added here. -->
+### ⭐ [Bank Marketing Segmentation & Subscription Prediction](./bank_marketing_predictive_analysis)
+
+A SAS data-mining project developed to identify customer segments and predict responses to a bank’s term-deposit campaign. The analysis combines anomaly detection, K-means clustering, and decision-tree classification while accounting for class imbalance and evaluating performance on validation data.
+
+**Technologies:** SAS • K-means Clustering • Decision Trees • Predictive Modeling
 
 ---
 
