@@ -24,12 +24,6 @@ Together, these projects demonstrate how technical solutions must be supported b
 
 ## Projects
 
-*Projects marked with ⭐ represent highlighted portfolio work.*
-
-### ⭐ [Logistics Intelligence Platform](../01-data-platforms-and-engineering/logistics-intelligence-platform)
-
-An integrated business intelligence solution that combines operational reporting with a broader data-governance and implementation strategy. In addition to its relational model and Power BI dashboards, the project addresses data quality, ownership, reporting consistency, security, stakeholder access, and the organizational processes needed to maintain a reliable analytics environment.
-
 **Concepts:** Data Governance • Reporting Strategy • Data Quality • Stakeholder Access • Implementation Planning
 
 ### ⭐ [Enterprise BI & Cloud Data Strategy](./enterprise_bi_and_cloud_data_strategy)
@@ -53,6 +47,10 @@ A collection of governance and ethics studies examining how organizations can pr
 ---
 
 ## Related Project
+
+### ⭐ [Logistics Intelligence Platform](../01-data-platforms-and-engineering/logistics-intelligence-platform)
+
+An integrated business intelligence solution that combines operational reporting with a broader data-governance and implementation strategy. In addition to its relational model and Power BI dashboards, the project addresses data quality, ownership, reporting consistency, security, stakeholder access, and the organizational processes needed to maintain a reliable analytics environment.
 
 ### [Fleet Management System Database Proposal](../03-database-design-and-sql/fleet_management_database_proposal)
 
