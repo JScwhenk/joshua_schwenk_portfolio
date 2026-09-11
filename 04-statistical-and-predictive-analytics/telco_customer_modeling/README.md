@@ -9,7 +9,7 @@
   <img src="./telco_churn_model_results.png" alt="SAS logistic regression results for the Telco Extra customer churn model" width="80%">
 </p>
 
-<p align="center"><em>Logistic regression results identifying customer characteristics associated with telecommunications churn.</em></p>
+<p align="center"><em>Customer age distribution compared with normal and kernel density curves during exploratory analysis.</em></p>
 
 ---
 
