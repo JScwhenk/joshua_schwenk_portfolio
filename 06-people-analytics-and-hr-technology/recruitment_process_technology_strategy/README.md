@@ -55,9 +55,10 @@ The proposed strategy introduces technology throughout sourcing, application, sc
 
 ---
 
+---
+
 <div align="center">
 
-[Return to People Analytics & HR Technology](../)  
-[Return to Main Portfolio](../../)
+[Return to Previous Page](../)
 
 </div>
