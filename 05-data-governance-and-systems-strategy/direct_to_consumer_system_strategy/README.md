@@ -53,7 +53,7 @@ Together, these elements help determine whether the proposed solution is technic
 ## Project Files
 
 - [View the Complete Systems Strategy Report](./direct_to_consumer_system_strategy_report.pdf)
-- [Download the Economic Feasibility Analysis](./economic_feasibility_analysis.xlsx?raw=1)
+- [Download the Economic Feasibility Analysis](./economic_feasibility_analysis.xlsx)
 
 ---
 
