@@ -54,8 +54,10 @@ A collection of written analyses addressing ethical AI in hiring, HR automation,
 
 ---
 
+
 <div align="center">
 
-[Return to Previous Page](../)
+[Return to Main Portfolio](../)
 
 </div>
+
