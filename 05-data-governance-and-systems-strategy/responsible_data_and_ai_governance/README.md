@@ -77,7 +77,7 @@ The analysis considers whether the organization should remediate the existing en
 
 ## Related Work
 
-### [Logistics Intelligence Platform](../../01-data-platforms-and-engineering/logistics-intelligence-platform)
+### ⭐ [Logistics Intelligence Platform](../../01-data-platforms-and-engineering/logistics-intelligence-platform)
 
 An applied business intelligence solution supported by a data-governance framework, implementation plan, reporting standards, and stakeholder-access strategy.
 
