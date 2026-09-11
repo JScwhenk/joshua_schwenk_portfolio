@@ -24,17 +24,17 @@ The work explores how organizations can use workforce information more effective
 
 ## Projects
 
-### Recruiting Operations & HR Automation Strategy
+### [Recruitment Process Technology Strategy](./recruitment_process_technology_strategy)
 
-A collection of systems and process analyses examining how recruiting and onboarding activities can be supported through workflow automation, reliable workforce data, and thoughtfully designed HR technology. The work also considers where human judgment remains necessary in employment-related decisions.
+An evaluation of how ABC Company could replace its paper-based recruitment process with an integrated digital workflow. The project examines applicant tracking systems, sourcing platforms, online applications, AI-assisted screening, and centralized selection tools while considering implementation costs, candidate experience, algorithmic bias, and the continued need for human judgment.
 
-**Concepts:** Recruiting Operations • HR Automation • Process Improvement • Data Quality • Human Oversight
+**Concepts:** Applicant Tracking Systems • Recruiting Operations • Process Improvement • Selection Technology • Responsible AI
 
-### People Analytics Studies
+### [Employee Training & Development Strategy](./employee_training_and_development_strategy)
 
-Selected analytical work exploring workforce characteristics, employee outcomes, and talent-related business questions. These studies demonstrate how statistical analysis and visualization can support clearer decisions about employees and organizational performance.
+A collection of workforce-development presentations covering recruitment and selection, employee fit, assessments, onboarding, management training, professional development, and retention. The project connects hiring practices with the programs and support employees need to become productive and remain engaged after joining an organization.
 
-**Technologies:** Excel • Power BI • SAS • Python • Statistical Analysis
+**Concepts:** Employee Development • Onboarding • Training Strategy • Talent Management • Retention
 
 ---
 
