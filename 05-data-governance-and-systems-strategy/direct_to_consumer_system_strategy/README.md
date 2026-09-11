@@ -9,7 +9,7 @@
   <img src="./direct_to_consumer_system_model.png" alt="System model for a direct-to-consumer ordering platform" width="65%">
 </p>
 
-<p align="center"><em>Proposed customer-ordering system supporting product discovery, account management, checkout, payment, shipping, and fulfillment.</em></p>
+<p align="center"><em>Data-flow model connecting customer activity with inventory, shopping cart, CRM, payment, fulfillment, and financial systems.</em></p>
 
 ---
 
