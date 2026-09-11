@@ -2,7 +2,7 @@
 
 # People Analytics & HR Technology
 
-Using workforce data, reporting, and technology to improve employee experiences and support more informed talent decisions.
+Using workforce data, reporting, and technology to improve employee experiences and support informed talent decisions.
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -16,19 +16,13 @@ Using workforce data, reporting, and technology to improve employee experiences 
 
 ## Overview
 
-This section brings together analytics and systems work related to employees, recruiting, training, and workforce operations. These projects reflect my academic background in information systems and business analytics alongside six years of professional experience in talent acquisition.
+This section brings together analytics and systems work related to employees, recruiting, onboarding, and workforce operations. The projects reflect my academic background in information systems and business analytics alongside six years of professional experience in talent acquisition.
 
-The work demonstrates how workforce information can be transformed into meaningful reporting, how HR processes can be improved through technology, and how automation can be introduced while preserving data quality, fairness, and human oversight.
+The work explores how organizations can use workforce information more effectively, improve HR processes through technology, and introduce automation while preserving data quality, fairness, and human oversight.
 
 ---
 
 ## Projects
-
-### [Workforce Experience & Training Dashboard](../02-business-intelligence-and-visualization/workforce_experience_and_training_dashboard)
-
-An interactive Power BI solution that combines employee, engagement survey, training, performance, and recruitment data. The report helps leadership understand workforce experience, employee development, departmental performance, training investment, and recruiting activity.
-
-**Technologies:** Power BI • Power Query • DAX • Data Modeling • People Analytics
 
 ### Recruiting Operations & HR Automation Strategy
 
@@ -44,16 +38,24 @@ Selected analytical work exploring workforce characteristics, employee outcomes,
 
 ---
 
-## Related Responsible AI Work
+## Related Portfolio Work
 
-Additional studies addressing algorithmic bias, responsible automation, privacy, governance, and ethical decision-making in employment contexts are available in:
+### [Workforce Experience & Training Dashboard](../02-business-intelligence-and-visualization/workforce_experience_and_training_dashboard)
+
+An interactive Power BI solution that combines employee, engagement survey, training, performance, and recruitment data. The report demonstrates how workforce information can help leaders evaluate employee experience, development investment, organizational performance, and recruiting activity.
+
+**Related areas:** People Analytics • Workforce Reporting • Learning and Development • Recruiting Analytics
 
 ### [Responsible Data & AI Governance Studies](../05-data-governance-and-systems-strategy/responsible_data_and_ai_governance)
+
+A collection of written analyses addressing ethical AI in hiring, HR automation, data quality, algorithmic bias, privacy, governance, and the importance of maintaining human oversight in technology-supported employment decisions.
+
+**Related areas:** Responsible AI • HR Automation • Algorithmic Bias • Data Governance
 
 ---
 
 <div align="center">
 
-[Return to Main Portfolio](../)
+[Return to Previous Page](../)
 
 </div>
