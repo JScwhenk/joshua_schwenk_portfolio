@@ -48,6 +48,12 @@ A SAS statistical analysis examining customer churn and income within a telecomm
 
 **Technologies:** SAS • Logistic Regression • Multiple Linear Regression • Business Statistics
 
+### [Customer Churn Classification in R](./customer_churn_classification_in_r)
+
+An R classification project comparing full, individual-predictor, and reduced logistic regression models on 7,032 telecommunications customers. Training and testing data, confusion matrices, and accuracy measures are used to evaluate how predictor selection and class imbalance affect churn classification.
+
+**Technologies:** R • Logistic Regression • Classification • Model Evaluation
+
 ---
 
 <div align="center">
