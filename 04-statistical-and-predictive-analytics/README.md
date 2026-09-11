@@ -54,6 +54,12 @@ An R classification project comparing full, individual-predictor, and reduced lo
 
 **Technologies:** R • Logistic Regression • Classification • Model Evaluation
 
+### [Unsupervised Learning Studies](./unsupervised_learning_studies)
+
+Two studies demonstrating how Python and SAS can uncover patterns without a predefined target outcome. Python-based association-rule mining reveals relationships between products purchased together, while SAS K-means clustering identifies meaningful groupings among more than 15,000 earthquake observations.
+
+**Technologies:** Python • SAS • Association Rules • K-means Clustering
+
 ---
 
 <div align="center">
