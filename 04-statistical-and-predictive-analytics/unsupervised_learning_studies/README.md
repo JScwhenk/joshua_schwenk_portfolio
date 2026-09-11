@@ -60,8 +60,11 @@ The resulting clusters demonstrate how unsupervised learning can identify geogra
 - Pattern and cluster-profile interpretation
 - Translating analytical results into practical recommendations
 
-> Python and SAS code with corresponding outputs are documented in the complete project reports.
 
 ---
 
-[Return to Statistical & Predictive Analytics](../README.md)
+<div align="center">
+
+[Return to Previous Page](../)
+
+</div>
