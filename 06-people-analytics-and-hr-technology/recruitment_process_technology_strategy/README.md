@@ -8,6 +8,12 @@ Modernizing a manual recruitment process through digital workflows, structured e
 ![Recruiting Operations](https://img.shields.io/badge/Recruiting_Operations-5C2D91?style=flat-square)
 ![Responsible AI](https://img.shields.io/badge/Responsible_AI-1F4E79?style=flat-square)
 
+<br><br>
+
+<img src="./abc_recruiting_technology.png" alt="ABC Company recruitment technology strategy presentation" width="700">
+
+</div>
+
 </div>
 
 ---
