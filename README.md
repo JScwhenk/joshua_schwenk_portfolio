@@ -38,7 +38,7 @@ Before completing my degree, I spent six years in talent acquisition. That exper
 | **[Database Design & SQL](./03-database-design-and-sql)** | Relational design, normalization, ERDs, PostgreSQL, and business-focused queries |
 | **[Statistical & Predictive Analytics](./04-statistical-and-predictive-analytics)** | Regression, classification, clustering, model evaluation, R, Python, SAS, and analytical interpretation |
 | **[Data Governance & Systems Strategy](./05-data-governance-and-systems-strategy)** | Data quality, security, stewardship, cloud architecture, and implementation planning |
-| **People Analytics & HR Technology**<br>*(Coming Soon)* | Workforce insights, recruiting operations, employee experience, and responsible automation |
+| **[People Analytics & HR Technology](./06-people-analytics-and-hr-technology)** | Workforce insights, recruiting operations, employee experience, and responsible automation |
 
 ---
 
