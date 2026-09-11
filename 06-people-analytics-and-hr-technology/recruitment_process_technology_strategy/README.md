@@ -55,8 +55,6 @@ The proposed strategy introduces technology throughout sourcing, application, sc
 
 ---
 
----
-
 <div align="center">
 
 [Return to Previous Page](../)
