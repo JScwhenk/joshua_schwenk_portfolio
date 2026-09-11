@@ -80,6 +80,18 @@ A predictive housing analysis developed to estimate home sale prices from proper
 
 **Technologies:** R • Tidyverse • Linear Regression • Predictive Modeling
 
+### ⭐ [Enterprise BI & Cloud Data Strategy](./05-data-governance-and-systems-strategy/enterprise_bi_and_cloud_data_strategy)
+
+An enterprise technology strategy developed to help a professional services organization improve reporting across disconnected business systems. The proposal establishes a scalable cloud data environment that strengthens integration, reporting consistency, and access to decision-ready information across the organization.
+
+**Concepts:** Enterprise BI • Cloud Architecture • Systems Integration • Data Governance
+
+### ⭐ [Direct-to-Consumer Ordering System Strategy](./05-data-governance-and-systems-strategy/direct_to_consumer_system_strategy)
+
+A systems-analysis and design project developed to support an organization’s transition to direct-to-consumer sales. The proposal defines how customer activity, inventory, payments, fulfillment, and financial records should move through an integrated ordering environment while considering feasibility and implementation needs.
+
+**Concepts:** Systems Analysis • Requirements Development • Data-Flow Modeling • Feasibility Analysis
+
 ---
 
 ## About the Projects
