@@ -6,7 +6,7 @@
 ![Feasibility Analysis](https://img.shields.io/badge/Feasibility_Analysis-217346?style=flat-square)
 
 <p align="center">
-  <img src="./direct_to_consumer_system_model.png" alt="System model for a direct-to-consumer ordering platform" width="85%">
+  <img src="./direct_to_consumer_system_model.png" alt="System model for a direct-to-consumer ordering platform" width="65%">
 </p>
 
 <p align="center"><em>Proposed customer-ordering system supporting product discovery, account management, checkout, payment, shipping, and fulfillment.</em></p>
