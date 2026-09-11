@@ -42,6 +42,12 @@ Two Python studies demonstrating the progression from exploratory advertising an
 
 **Technologies:** Python • pandas • scikit-learn • K-means Clustering
 
+### [Telco Extra Customer Churn & Income Modeling](./telco_customer_modeling)
+
+A SAS statistical analysis examining customer churn and income within a telecommunications company. Logistic and multiple linear regression models are used to identify significant relationships, evaluate explanatory power, and distinguish statistically meaningful findings from practical predictive limitations.
+
+**Technologies:** SAS • Logistic Regression • Multiple Linear Regression • Business Statistics
+
 ---
 
 <div align="center">
