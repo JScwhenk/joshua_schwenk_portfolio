@@ -38,9 +38,9 @@ Selected analytical work exploring workforce characteristics, employee outcomes,
 
 ---
 
-## Related Portfolio Work
+## Related Projects
 
-### [Workforce Experience & Training Dashboard](../02-business-intelligence-and-visualization/workforce_experience_and_training_dashboard)
+### ⭐ [Workforce Experience & Training Dashboard](../02-business-intelligence-and-visualization/workforce_experience_and_training_dashboard)
 
 An interactive Power BI solution that combines employee, engagement survey, training, performance, and recruitment data. The report demonstrates how workforce information can help leaders evaluate employee experience, development investment, organizational performance, and recruiting activity.
 
